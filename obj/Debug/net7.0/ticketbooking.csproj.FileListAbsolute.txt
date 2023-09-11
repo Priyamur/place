@@ -1,0 +1,15 @@
+D:\ticketbooking\obj\Debug\net7.0\ticketbooking.csproj.AssemblyReference.cache
+D:\ticketbooking\obj\Debug\net7.0\ticketbooking.GeneratedMSBuildEditorConfig.editorconfig
+D:\ticketbooking\obj\Debug\net7.0\ticketbooking.AssemblyInfoInputs.cache
+D:\ticketbooking\obj\Debug\net7.0\ticketbooking.AssemblyInfo.cs
+D:\ticketbooking\obj\Debug\net7.0\ticketbooking.csproj.CoreCompileInputs.cache
+D:\ticketbooking\bin\Debug\net7.0\ticketbooking.exe
+D:\ticketbooking\bin\Debug\net7.0\ticketbooking.deps.json
+D:\ticketbooking\bin\Debug\net7.0\ticketbooking.runtimeconfig.json
+D:\ticketbooking\bin\Debug\net7.0\ticketbooking.dll
+D:\ticketbooking\bin\Debug\net7.0\ticketbooking.pdb
+D:\ticketbooking\obj\Debug\net7.0\ticketbooking.dll
+D:\ticketbooking\obj\Debug\net7.0\refint\ticketbooking.dll
+D:\ticketbooking\obj\Debug\net7.0\ticketbooking.pdb
+D:\ticketbooking\obj\Debug\net7.0\ticketbooking.genruntimeconfig.cache
+D:\ticketbooking\obj\Debug\net7.0\ref\ticketbooking.dll
